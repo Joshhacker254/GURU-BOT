@@ -55,7 +55,7 @@ global.fgsc = 'https://github.com/Joshhacker254/GURU-BOT-V1'
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.dbase = 'mongodb+srv://joshhacker:djjosh254@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://joshhacker:djjosh254@atlascluster.pmvdfdu.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
